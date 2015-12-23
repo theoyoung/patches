@@ -1,0 +1,88 @@
+JUnit version 4.8.2
+.....BUGNUMBER: 181834
+STATUS: Testing scope
+ PASSED! Section 1 of test - 
+ PASSED! Section 2 of test - 
+ PASSED! Section 3 of test - 
+ PASSED! Section 4 of test - 
+ PASSED! Section 5 of test - 
+ PASSED! Section 6 of test - 
+
+.BUGNUMBER: 184107
+STATUS: with(...) { function f ...} should set f in the global scope
+ PASSED! Section 1 of test - 
+ PASSED! Section 2 of test - 
+ PASSED! Section 3 of test - 
+ PASSED! Section 4 of test - 
+
+.BUGNUMBER: 185485
+STATUS: Testing |with (x) {function f() {}}| when |x.f| already exists
+ PASSED! Section 1 of test - 
+ PASSED! Section 2 of test - 
+ PASSED! Section 3 of test - 
+ PASSED! Section 4 of test - 
+ PASSED! Section 5 of test - 
+
+.BUGNUMBER: (none)
+STATUS: Testing visibility of outer function from inner function
+ PASSED! Section 1 of test
+ PASSED! Section 2 of test
+ PASSED! Section 3 of test
+ PASSED! Section 4 of test
+
+.BUGNUMBER: (none)
+STATUS: Testing scope with nested functions
+ PASSED! Section 0 of test -
+ PASSED! Section 1 of test -
+ PASSED! Section 2 of test -
+
+.BUGNUMBER: 90325
+STATUS: Testing visiblity of variables from within a with block
+ PASSED! Section 1 of test
+ PASSED! Section 2 of test
+ PASSED! Section 3 of test
+ PASSED! Section 4 of test
+ PASSED! Section 5 of test
+ PASSED! Section 6 of test
+ PASSED! Section 7 of test
+ PASSED! Section 8 of test
+ PASSED! Section 9 of test
+ PASSED! Section 10 of test
+ PASSED! Section 11 of test
+ PASSED! Section 12 of test
+ PASSED! Section 13 of test
+
+.BUGNUMBER: 192226
+STATUS: Testing a nested function call under |with| or |catch|
+ PASSED! Section 1 of test - 
+
+.BUGNUMBER: 154693
+STATUS: Testing scope
+ PASSED! Section 1 of test - 
+
+...........E
+Time: 2.711
+There was 1 failure:
+1) rhino210682test(test.rhino.cases.Rhino210682Test)
+org.mozilla.javascript.EvaluatorException: uncaught JavaScript exception: SyntaxError: missing ; before statement (/home/psyflos/Auto-fix/patches/rhino/rhino-tests/js1_5/Regress/regress-210682.js; line 64) (/home/psyflos/Auto-fix/patches/rhino/rhino-tests/js1_5/Regress/regress-210682.js; line 64)
+	at org.mozilla.javascript.DefaultErrorReporter.error(DefaultErrorReporter.java:69)
+	at org.mozilla.javascript.Context.reportError(Context.java:539)
+	at org.mozilla.javascript.tools.shell.Main.evaluateReader(Main.java:389)
+	at org.mozilla.javascript.tools.shell.Main.processFileSecure(Main.java:368)
+	at org.mozilla.javascript.tools.shell.Main.processFile(Main.java:305)
+	at test.rhino.AbstractRhinoTest.callScript(AbstractRhinoTest.java:44)
+	at test.rhino.AbstractRhinoTest.doTest(AbstractRhinoTest.java:33)
+	at test.rhino.cases.Rhino210682Test.rhino210682test(Rhino210682Test.java:15)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.internal.runners.statements.FailOnTimeout$1.run(FailOnTimeout.java:28)
+
+FAILURES!!!
+Tests run: 23,  Failures: 1
+

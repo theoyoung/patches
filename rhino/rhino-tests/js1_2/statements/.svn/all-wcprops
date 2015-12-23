@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_2/statements
+END
+continue.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_2/statements/continue.js
+END
+switch.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_2/statements/switch.js
+END
+shell.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_2/statements/shell.js
+END
+break.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_2/statements/break.js
+END
+switch2.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_2/statements/switch2.js
+END
+do_while.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_2/statements/do_while.js
+END
+browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_2/statements/browser.js
+END

@@ -1,0 +1,18 @@
+JUnit version 4.8.2
+.....BUGNUMBER: 76683
+STATUS: Regression test for Bugzilla bug 76683
+ FAILED! [reported from test()] regexp MATCHED when we expected it to fail!!!
+ FAILED! [reported from test()] regexp = /(<!--([^-]|-[^-]|--[^>])*-->)|(<([\$\w:\.\-]+)((([ ][^\/>]*)?\/>)|(([ ][^>]*)?>)))/,  string = 'abc'
+ FAILED! [reported from test()] 
+ FAILED! [reported from test()] regexp MATCHED when we expected it to fail!!!
+ FAILED! [reported from test()] regexp = /(<!--([^-]|-[^-]|--[^>])*-->)|(<(tagPattern)((([ ][^\/>]*)?\/>)|(([ ][^>]*)?>)))/,  string = 'abc'
+ FAILED! [reported from test()] 
+ FAILED! [reported from test()] regexp MATCHED when we expected it to fail!!!
+ FAILED! [reported from test()] regexp = /(<!--([^-]|-[^-]|--[^>])*-->)|(<(tagPattern)((([ ][^\/>]*)?\/>)|(([ ][^>]*)?>)))|(<\/tagPattern[^>]*>)/,  string = 'abc'
+ FAILED! [reported from test()] 
+
+
+Time: 0.907
+
+OK (5 tests)
+

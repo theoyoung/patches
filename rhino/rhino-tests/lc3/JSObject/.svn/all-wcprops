@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JSObject
+END
+ToChar-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JSObject/ToChar-001.js
+END
+ToDouble-003-n.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JSObject/ToDouble-003-n.js
+END
+ToDouble-002-n.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JSObject/ToDouble-002-n.js
+END
+ToDouble-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JSObject/ToDouble-001.js
+END
+ToString-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JSObject/ToString-001.js
+END
+shell.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JSObject/shell.js
+END
+ToFloat-003-n.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JSObject/ToFloat-003-n.js
+END
+browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JSObject/browser.js
+END
+ToByte-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JSObject/ToByte-001.js
+END
+ToFloat-002-n.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JSObject/ToFloat-002-n.js
+END
+ToJSObject-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JSObject/ToJSObject-001.js
+END
+ToFloat-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JSObject/ToFloat-001.js
+END
+ToShort-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JSObject/ToShort-001.js
+END
+ToObject-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JSObject/ToObject-001.js
+END
+ToLong-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JSObject/ToLong-001.js
+END
+ToInt-002.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JSObject/ToInt-002.js
+END
+ToInt-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JSObject/ToInt-001.js
+END

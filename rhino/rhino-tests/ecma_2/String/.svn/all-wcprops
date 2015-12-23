@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/ecma_2/String
+END
+shell.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/ecma_2/String/shell.js
+END
+split-003.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/ecma_2/String/split-003.js
+END
+split-002.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/ecma_2/String/split-002.js
+END
+split-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/ecma_2/String/split-001.js
+END
+match-004.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/ecma_2/String/match-004.js
+END
+match-003.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/ecma_2/String/match-003.js
+END
+match-002.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/ecma_2/String/match-002.js
+END
+match-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/ecma_2/String/match-001.js
+END
+browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/ecma_2/String/browser.js
+END
+replace-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/ecma_2/String/replace-001.js
+END

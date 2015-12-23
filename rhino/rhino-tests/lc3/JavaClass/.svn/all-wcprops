@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JavaClass
+END
+ToJSObject-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JavaClass/ToJSObject-001.js
+END
+ToClass-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JavaClass/ToClass-001.js
+END
+ToString-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JavaClass/ToString-001.js
+END
+shell.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JavaClass/shell.js
+END
+ToObject-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JavaClass/ToObject-001.js
+END
+browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/JavaClass/browser.js
+END

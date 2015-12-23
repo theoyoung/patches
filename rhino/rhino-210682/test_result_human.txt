@@ -1,0 +1,67 @@
+JUnit version 4.8.2
+.....BUGNUMBER: 192226
+STATUS: Testing a nested function call under |with| or |catch|
+ PASSED! Section 1 of test - 
+
+.BUGNUMBER: 154693
+STATUS: Testing scope
+ PASSED! Section 1 of test - 
+
+.BUGNUMBER: 181834
+STATUS: Testing scope
+ PASSED! Section 1 of test - 
+ PASSED! Section 2 of test - 
+ PASSED! Section 3 of test - 
+ PASSED! Section 4 of test - 
+ PASSED! Section 5 of test - 
+ PASSED! Section 6 of test - 
+
+.BUGNUMBER: 184107
+STATUS: with(...) { function f ...} should set f in the global scope
+ PASSED! Section 1 of test - 
+ PASSED! Section 2 of test - 
+ PASSED! Section 3 of test - 
+ PASSED! Section 4 of test - 
+
+.BUGNUMBER: 185485
+STATUS: Testing |with (x) {function f() {}}| when |x.f| already exists
+ PASSED! Section 1 of test - 
+ PASSED! Section 2 of test - 
+ PASSED! Section 3 of test - 
+ PASSED! Section 4 of test - 
+ PASSED! Section 5 of test - 
+
+.BUGNUMBER: (none)
+STATUS: Testing visibility of outer function from inner function
+ PASSED! Section 1 of test
+ PASSED! Section 2 of test
+ PASSED! Section 3 of test
+ PASSED! Section 4 of test
+
+.BUGNUMBER: (none)
+STATUS: Testing scope with nested functions
+ PASSED! Section 0 of test -
+ PASSED! Section 1 of test -
+ PASSED! Section 2 of test -
+
+.BUGNUMBER: 90325
+STATUS: Testing visiblity of variables from within a with block
+ PASSED! Section 1 of test
+ PASSED! Section 2 of test
+ PASSED! Section 3 of test
+ PASSED! Section 4 of test
+ PASSED! Section 5 of test
+ PASSED! Section 6 of test
+ PASSED! Section 7 of test
+ PASSED! Section 8 of test
+ PASSED! Section 9 of test
+ PASSED! Section 10 of test
+ PASSED! Section 11 of test
+ PASSED! Section 12 of test
+ PASSED! Section 13 of test
+
+...........
+Time: 3.616
+
+OK (23 tests)
+

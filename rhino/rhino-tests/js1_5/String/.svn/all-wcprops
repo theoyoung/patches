@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_5/String
+END
+regress-157334-01.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_5/String/regress-157334-01.js
+END
+regress-179068.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_5/String/regress-179068.js
+END
+regress-322772.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_5/String/regress-322772.js
+END
+regress-56940-02.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_5/String/regress-56940-02.js
+END
+regress-56940-01.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_5/String/regress-56940-01.js
+END
+shell.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_5/String/shell.js
+END
+regress-107771.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_5/String/regress-107771.js
+END
+regress-314890.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_5/String/regress-314890.js
+END
+regress-112626.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_5/String/regress-112626.js
+END
+browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_5/String/browser.js
+END

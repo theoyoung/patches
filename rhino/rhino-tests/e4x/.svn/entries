@@ -1,0 +1,176 @@
+10
+
+dir
+55
+http://nforge.cse.ust.hk/svn/autofix/trunk/rhino_test/tests/e4x
+http://nforge.cse.ust.hk/svn/autofix
+
+
+
+2011-02-21T13:28:32.640823Z
+55
+darkrsw
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+84c1e052-b6c8-42e9-8210-a36d6afce2fc
+
+
+
+
+
+
+0
+
+Expressions
+dir
+
+GC
+dir
+
+Global
+dir
+
+Namespace
+dir
+
+QName
+dir
+
+Regress
+dir
+
+Statements
+dir
+
+TypeConversion
+dir
+
+Types
+dir
+
+XML
+dir
+
+XMLList
+dir
+
+browser.js
+file
+
+
+
+
+2008-02-06T20:06:38.000000Z
+14c2c2aa09aa8f5347b27a542f492875
+2011-02-21T13:28:32.640823Z
+55
+darkrsw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2670
+
+decompilation
+dir
+
+extensions
+dir
+
+shell.js
+file
+
+
+
+
+2007-07-19T19:57:48.000000Z
+63f0d950a56a2ded74c23cd798e41a18
+2011-02-21T13:28:32.640823Z
+55
+darkrsw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3676
+
+template.js
+file
+
+
+
+
+2008-08-13T12:10:54.000000Z
+2d0bcb00cfae5682c6910e4660aa913b
+2011-02-21T13:28:32.640823Z
+55
+darkrsw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2024
+

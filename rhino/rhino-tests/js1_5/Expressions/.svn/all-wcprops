@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_5/Expressions
+END
+regress-96526-delelem.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_5/Expressions/regress-96526-delelem.js
+END
+regress-96526-noargsub.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_5/Expressions/regress-96526-noargsub.js
+END
+regress-96526-argsub.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_5/Expressions/regress-96526-argsub.js
+END
+shell.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_5/Expressions/shell.js
+END
+regress-192288.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_5/Expressions/regress-192288.js
+END
+regress-394673.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_5/Expressions/regress-394673.js
+END
+browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_5/Expressions/browser.js
+END

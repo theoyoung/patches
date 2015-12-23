@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests
+END
+config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/config.sh
+END
+mkhtml.pl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/mkhtml.pl
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/.cvsignore
+END
+spidermonkey-gc.tests
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/spidermonkey-gc.tests
+END
+pattern-expander.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/pattern-expander.pl
+END
+slow-n-1.8.1.tests
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/slow-n-1.8.1.tests
+END
+slow-n-1.9.0.tests
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/slow-n-1.9.0.tests
+END
+shell.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/shell.js
+END
+slow-n-1.9.1.tests
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/slow-n-1.9.1.tests
+END
+Patterns.pm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/Patterns.pm
+END
+slow-n-1.9.2.tests
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/slow-n-1.9.2.tests
+END
+README-jsDriver.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/README-jsDriver.html
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/Makefile
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/config.mk
+END
+js-test-driver-end.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js-test-driver-end.js
+END
+spidermonkey-n.tests
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/spidermonkey-n.tests
+END
+runtests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/runtests.sh
+END
+browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/browser.js
+END
+post-process-logs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/post-process-logs.pl
+END
+js-test-driver-standards.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js-test-driver-standards.html
+END
+performance-1.8.0.tests
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/performance-1.8.0.tests
+END
+dikdik-n.tests
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/dikdik-n.tests
+END
+performance-1.8.1.tests
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/performance-1.8.1.tests
+END
+performance-1.9.0.tests
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/performance-1.9.0.tests
+END
+performance-1.9.1.tests
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/performance-1.9.1.tests
+END
+slow-n.tests
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/slow-n.tests
+END
+importList.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/importList.html
+END
+performance-1.9.2.tests
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/performance-1.9.2.tests
+END
+process-logs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/process-logs.sh
+END
+known-failures.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/known-failures.pl
+END
+menuhead.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/menuhead.js
+END
+remove-fixed-failures.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/remove-fixed-failures.sh
+END
+pattern-extracter.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/pattern-extracter.pl
+END
+changes.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/changes.sh
+END
+slow-n-1.8.1-browser.tests
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/slow-n-1.8.1-browser.tests
+END
+slow-n-1.9.0-browser.tests
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/slow-n-1.9.0-browser.tests
+END
+slow-n-1.9.1-browser.tests
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/slow-n-1.9.1-browser.tests
+END
+performance.tests
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/performance.tests
+END
+slow-n-1.9.2-browser.tests
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/slow-n-1.9.2-browser.tests
+END
+get-universe.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/get-universe.sh
+END
+userhookeach.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/userhookeach.js
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/.project
+END
+menufoot.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/menufoot.html
+END
+runtests2.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/runtests2.pl
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/test.sh
+END
+runRhinoTests.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/runRhinoTests.pl
+END
+detect-universe.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/detect-universe.sh
+END
+importList.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/importList.js
+END
+runtests.pl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/runtests.pl
+END
+js-test-driver-quirks.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js-test-driver-quirks.html
+END
+most.tests
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/most.tests
+END
+bisect.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/bisect.sh
+END
+jsDriver.pl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/jsDriver.pl
+END
+menuhead.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/menuhead.html
+END
+js-test-driver-begin.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js-test-driver-begin.js
+END
+spidermonkey-n-1.8.0.tests
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/spidermonkey-n-1.8.0.tests
+END
+spidermonkey-n-1.8.1.tests
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/spidermonkey-n-1.8.1.tests
+END
+spidermonkey-n-1.9.0.tests
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/spidermonkey-n-1.9.0.tests
+END
+template.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/template.js
+END
+spidermonkey-n-1.9.1.tests
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/spidermonkey-n-1.9.1.tests
+END
+mklistpage.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/mklistpage.pl
+END
+spidermonkey-n-1.9.2.tests
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/spidermonkey-n-1.9.2.tests
+END

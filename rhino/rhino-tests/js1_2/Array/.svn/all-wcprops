@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_2/Array
+END
+array_split_1.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_2/Array/array_split_1.js
+END
+splice2.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_2/Array/splice2.js
+END
+splice1.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_2/Array/splice1.js
+END
+slice.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_2/Array/slice.js
+END
+shell.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_2/Array/shell.js
+END
+tostring_2.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_2/Array/tostring_2.js
+END
+tostring_1.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_2/Array/tostring_1.js
+END
+general2.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_2/Array/general2.js
+END
+general1.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_2/Array/general1.js
+END
+browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_2/Array/browser.js
+END

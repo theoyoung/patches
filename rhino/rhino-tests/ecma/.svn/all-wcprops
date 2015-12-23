@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/ecma
+END
+shell.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/ecma/shell.js
+END
+jsref.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/ecma/jsref.js
+END
+template.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/ecma/template.js
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/ecma/README
+END
+browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/ecma/browser.js
+END

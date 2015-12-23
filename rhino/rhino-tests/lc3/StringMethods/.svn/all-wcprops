@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/StringMethods
+END
+string-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/StringMethods/string-001.js
+END
+shell.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/StringMethods/shell.js
+END
+browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/StringMethods/browser.js
+END

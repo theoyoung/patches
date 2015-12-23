@@ -1,0 +1,35 @@
+JUnit version 4.8.2
+.................E....
+Time: 3.037
+There was 1 failure:
+1) rhino217379test(test.rhino.cases.Rhino217379Test)
+java.lang.NullPointerException
+	at org.mozilla.javascript.regexp.ReplaceData.findReplen(RegExpImpl.java:486)
+	at org.mozilla.javascript.regexp.ReplaceData.doGlobal(RegExpImpl.java:361)
+	at org.mozilla.javascript.regexp.RegExpImpl.matchOrReplace(RegExpImpl.java:186)
+	at org.mozilla.javascript.regexp.RegExpImpl.replace(RegExpImpl.java:105)
+	at org.mozilla.javascript.NativeString.execMethod(NativeString.java:247)
+	at org.mozilla.javascript.IdFunction.call(IdFunction.java:93)
+	at org.mozilla.javascript.ScriptRuntime.call(ScriptRuntime.java:1223)
+	at org.mozilla.javascript.gen.c65._c0(/home/psyflos/Auto-fix/patches/rhino/rhino-tests/custom/regress-217379.js:3)
+	at org.mozilla.javascript.gen.c65.call(/home/psyflos/Auto-fix/patches/rhino/rhino-tests/custom/regress-217379.js)
+	at org.mozilla.javascript.gen.c65.exec(/home/psyflos/Auto-fix/patches/rhino/rhino-tests/custom/regress-217379.js)
+	at org.mozilla.javascript.Context.evaluateReader(Context.java:822)
+	at org.mozilla.javascript.tools.shell.Main.evaluateScript(Main.java:381)
+	at org.mozilla.javascript.tools.shell.Main.processFileSecure(Main.java:368)
+	at org.mozilla.javascript.tools.shell.Main.processFile(Main.java:305)
+	at test.rhino.AbstractRhinoTest.callScript(AbstractRhinoTest.java:44)
+	at test.rhino.cases.Rhino217379Test.rhino217379test(Rhino217379Test.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.internal.runners.statements.FailOnTimeout$1.run(FailOnTimeout.java:28)
+
+FAILURES!!!
+Tests run: 21,  Failures: 1
+

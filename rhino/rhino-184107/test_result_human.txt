@@ -1,0 +1,6 @@
+JUnit version 4.8.2
+...............
+Time: 3.303
+
+OK (15 tests)
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/forin
+END
+object-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/forin/object-001.js
+END
+shell.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/forin/shell.js
+END
+array-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/forin/array-001.js
+END
+browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc3/forin/browser.js
+END

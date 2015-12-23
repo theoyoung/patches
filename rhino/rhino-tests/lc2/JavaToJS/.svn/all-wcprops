@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc2/JavaToJS
+END
+enum-002.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc2/JavaToJS/enum-002.js
+END
+String-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc2/JavaToJS/String-001.js
+END
+enum-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc2/JavaToJS/enum-001.js
+END
+boolean-005.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc2/JavaToJS/boolean-005.js
+END
+shell.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc2/JavaToJS/shell.js
+END
+boolean-004.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc2/JavaToJS/boolean-004.js
+END
+boolean-003.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc2/JavaToJS/boolean-003.js
+END
+number-002.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc2/JavaToJS/number-002.js
+END
+number-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc2/JavaToJS/number-001.js
+END
+boolean-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc2/JavaToJS/boolean-001.js
+END
+char-002.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc2/JavaToJS/char-002.js
+END
+null-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc2/JavaToJS/null-001.js
+END
+char-001.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc2/JavaToJS/char-001.js
+END
+browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/lc2/JavaToJS/browser.js
+END

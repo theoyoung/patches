@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_8_1/extensions
+END
+regress-452498-193.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_8_1/extensions/regress-452498-193.js
+END
+regress-477158.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_8_1/extensions/regress-477158.js
+END
+regress-353214-02.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_8_1/extensions/regress-353214-02.js
+END
+regress-466905-05.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_8_1/extensions/regress-466905-05.js
+END
+regress-477187.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_8_1/extensions/regress-477187.js
+END
+regress-352281.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_8_1/extensions/regress-352281.js
+END
+regress-466905-04.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_8_1/extensions/regress-466905-04.js
+END
+shell.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_8_1/extensions/shell.js
+END
+regress-452498-224.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_8_1/extensions/regress-452498-224.js
+END
+regress-437288-01.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_8_1/extensions/regress-437288-01.js
+END
+regress-452498-196.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_8_1/extensions/regress-452498-196.js
+END
+browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_8_1/extensions/browser.js
+END
+regress-452498-162.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_8_1/extensions/regress-452498-162.js
+END

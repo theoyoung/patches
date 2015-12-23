@@ -1,0 +1,42 @@
+/.cvsignore/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/A.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/A1.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/A2.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/Ap.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/AroundA.java/1.1/Mon Dec 16 18:02:42 2002/-ko/D2004.03.16.16.00.00
+/AroundA1.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/BadA.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/BadBinding.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/BadHello.java/1.1/Mon Dec 16 18:02:42 2002/-ko/D2004.03.16.16.00.00
+/DeclareSoft.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/DeclareWarning.java/1.1/Mon Dec 16 18:02:42 2002/-ko/D2004.03.16.16.00.00
+/Declares.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/DummyAspect.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/Good.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/Handler.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/Hello.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/IfPcd.java/1.1/Mon Dec 16 18:02:42 2002/-ko/D2004.03.16.16.00.00
+/Initialization.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/InterType.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/InterTypeConstructors.java/1.2/Wed Dec 18 05:08:26 2002/-ko/D2004.03.16.16.00.00
+/InterTypeMethods.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/LazyTjp.aj/1.1/Sat Jan 24 02:29:05 2004/-kb/D2004.03.16.16.00.00
+/MyTrace.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/Parents.java/1.1/Mon Dec 16 18:02:42 2002/-ko/D2004.03.16.16.00.00
+/ParentsFail.java/1.2/Fri Apr 11 00:48:49 2003/-ko/D2004.03.16.16.00.00
+/PerCflow.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/PerObject.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/Privileged.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/SizeIssues.java/1.1/Wed Jul 23 01:05:56 2003//D2004.03.16.16.00.00
+/SizeIssuesAspect.java/1.1/Wed Jul 23 01:05:56 2003//D2004.03.16.16.00.00
+/ThisAndModifiers.java/1.1/Mon Dec 16 18:02:42 2002/-ko/D2004.03.16.16.00.00
+/Trace.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+/TraceHello.java/1.1/Mon Dec 16 18:02:42 2002/-ko/D2004.03.16.16.00.00
+/UnimplementedSyntax.java/1.2/Tue Jan 14 17:33:43 2003/-ko/D2004.03.16.16.00.00
+/WrongPackage.java/1.1/Tue May 27 17:35:13 2003//D2004.03.16.16.00.00
+/Xlint.java/1.1/Mon Dec 16 18:02:41 2002/-ko/D2004.03.16.16.00.00
+D/binary////
+D/ltw////
+D/p1////
+D/trace////
+D/tracep1////

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers
+END
+LiveConnectEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers/LiveConnectEnv.java
+END
+TestFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers/TestFile.java
+END
+ObservedTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers/ObservedTask.java
+END
+LiveConnectDrv.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers/LiveConnectDrv.java
+END
+NavEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers/NavEnv.java
+END
+MacRefEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers/MacRefEnv.java
+END
+TestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers/TestSuite.java
+END
+NavDrv.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers/NavDrv.java
+END
+MacRefDrv.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers/MacRefDrv.java
+END
+TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers/TestCase.java
+END
+TestEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers/TestEnvironment.java
+END
+RefEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers/RefEnv.java
+END
+TestDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers/TestDriver.java
+END
+RhinoEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers/RhinoEnv.java
+END
+LiveNavEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers/LiveNavEnv.java
+END
+RefDrv.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers/RefDrv.java
+END
+RhinoDrv.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers/RhinoDrv.java
+END
+TestLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers/TestLog.java
+END
+LiveNavDrv.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/src/com/netscape/javascript/qa/drivers/LiveNavDrv.java
+END

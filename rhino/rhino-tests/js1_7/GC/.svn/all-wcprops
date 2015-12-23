@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_7/GC
+END
+shell.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_7/GC/shell.js
+END
+regress-341675.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_7/GC/regress-341675.js
+END
+regress-381374.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_7/GC/regress-381374.js
+END
+browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/autofix/!svn/ver/55/trunk/rhino_test/tests/js1_7/GC/browser.js
+END
