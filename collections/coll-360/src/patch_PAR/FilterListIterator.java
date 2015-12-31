@@ -260,6 +260,10 @@ public class FilterListIterator<E> implements ListIterator<E> {
             clearPreviousObject();
         }
 
+	if (iterator == null) {
+            return false;
+        }
+
         while (iterator.hasPrevious()) {
             E object = iterator.previous();
             if (predicate.evaluate(object)) {
