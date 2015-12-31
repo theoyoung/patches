@@ -1,0 +1,69 @@
+JUnit version 4.5
+.result: true
+.result: true
+.result: true
+.result: false
+.result: true
+.result: true
+.result: true
+.result: true
+.result: false
+.result: false
+.result: false
+.result: false
+...result: true
+.result: true
+result: true
+.result: false
+.result: false
+..result: true
+result: false
+E
+Time: 2
+There was 1 failure:
+1) test87376(org.aspectj.ajdt.internal.compiler.batch.AjcTest87376)
+junit.framework.AssertionFailedError: Abort!1
+	at junit.framework.Assert.fail(Assert.java:47)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at org.aspectj.ajdt.internal.compiler.batch.CommandTestCase.runCompiler(CommandTestCase.java:121)
+	at org.aspectj.ajdt.internal.compiler.batch.CommandTestCase.checkCompile(CommandTestCase.java:74)
+	at org.aspectj.ajdt.internal.compiler.batch.AjcTest87376.test87376(AjcTest87376.java:14)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:110)
+	at junit.framework.TestResult.runProtected(TestResult.java:128)
+	at junit.framework.TestResult.run(TestResult.java:113)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at junit.framework.TestSuite.runTest(TestSuite.java:232)
+	at junit.framework.TestSuite.run(TestSuite.java:227)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:79)
+	at org.junit.runners.Suite.runChild(Suite.java:115)
+	at org.junit.runners.Suite.runChild(Suite.java:23)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:180)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:41)
+	at org.junit.runners.ParentRunner$1.evaluate(ParentRunner.java:173)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:220)
+	at org.junit.runners.Suite.runChild(Suite.java:115)
+	at org.junit.runners.Suite.runChild(Suite.java:23)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:180)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:41)
+	at org.junit.runners.ParentRunner$1.evaluate(ParentRunner.java:173)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:220)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:116)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:107)
+	at org.junit.runner.JUnitCore.runMain(JUnitCore.java:88)
+	at org.junit.runner.JUnitCore.runMainAndExit(JUnitCore.java:54)
+	at org.junit.runner.JUnitCore.main(JUnitCore.java:46)
+
+FAILURES!!!
+Tests run: 20,  Failures: 1
+

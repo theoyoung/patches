@@ -1,0 +1,26 @@
+JUnit version 4.8.2
+.result: false
+..result: true
+..result: true
+.result: true
+.result: true
+.result: true
+.result: false
+.result: false
+...result: true
+.result: true
+result: true
+.result: false
+.result: true
+.result: false
+.result: false
+.result: true
+..result: true
+.result: false
+.result: false
+.result: true
+
+Time: 2.545
+
+OK (24 tests)
+
